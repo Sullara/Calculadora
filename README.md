@@ -1,4 +1,4 @@
-Calculadora feita em html, css e javascripit que realiza operações matemáticas básicas como adição(+), multiplicação(*), divisão(*)
+Calculadora feita em html, css e javascripit que realiza operações matemáticas básicas como adição(+), multiplicação(*), divisão(/)
 e subtração(-). 
 Os botões CE, C e DEL podem ser ultilizados para exluir o último dígito inserido, excluir todos os dígitos inseridos e excluir
 tudo na tela. 
